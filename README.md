@@ -114,7 +114,7 @@ python main.py
 - The system successfully identified a critical anomaly on **Jan 15th** with a statistical significance of **9.17σ** (standard deviations).
 
 ### Generated Report Preview
-![Report Preview](/screenshots/report_preview.png)
+![Report Preview](/screenshots/report_preview.jpg)
 
 ###  Anomaly Detection Logic
 - The system flags data points where the Z-Score exceeds the threshold (default: 2.5).
@@ -137,7 +137,7 @@ $$Z = \frac{X - \mu}{\sigma}$$
 ## 💻 Implementation Snapshot
 
 ### Here is a glimpse of the Python pipeline structure in VS Code, showing the modular design (ETL -> Analysis -> AI).
-![Code Structure](/screenshots/code_preview.png)
+![Code Structure](/screenshots/code_preview.jpg)
 
 ## 👤 Author
 **Borislav Davidov Senior Data Engineer & Automation Expert** 
