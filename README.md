@@ -141,3 +141,12 @@ $$Z = \frac{X - \mu}{\sigma}$$
 
 ## 👤 Author
 **Borislav Davidov Senior Data Engineer & Automation Expert** 
+
+### 🤝 Connect & Hire
+
+Created by **Borislav D.** - Full Stack Developer.
+
+> 🚀 **Open for work!** Like this project? Let's build something together.
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/B-D-2409)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/https://www.upwork.com/freelancers/~01029fadae889f78c6)
